@@ -27,8 +27,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://github.com/Karl-afk/article-preview-component](https://github.com/Karl-afk/article-preview-component)
-- Live Site URL: [https://karl-afk.github.io/article-preview-component](https://karl-afk.github.io/article-preview-component)
+- Solution URL: [https://github.com/Karl-afk/article-preview-component-master](https://github.com/Karl-afk/article-preview-component-master)
+- Live Site URL: [https://karl-afk.github.io/article-preview-component-master](https://karl-afk.github.io/article-preview-component-master)
 
 ### Built with
 
